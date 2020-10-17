@@ -1,1 +1,3 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRomeo)](https://github.com/anuraghazra/github-readme-stats)
+### Hi, I'm Daniel, check out my profile.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielRomeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
