@@ -6,3 +6,7 @@
 
 ### Projects I'm currently working on?
 A c++ String and vector library
+
+Function | MySQL / MariaDB | PostgreSQL | SQLite
+:------------ | :-------------| :-------------| :-------------
+substr | :heavy_check_mark: |  :white_check_mark: | :heavy_check_mark:
