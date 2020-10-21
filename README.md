@@ -12,3 +12,6 @@ Back-end libraries |:heavy_check_mark: ExpressJS| | AdonisJS
 Databases | :heavy_check_mark: MySQL |  :white_check_mark: MongoDB | PostgreSQL
 DevOps | :heavy_check_mark: Docker | :white_check_mark: Kubernetes
 Hobbies | :heavy_check_mark: Machine learning | :white_check_mark: Chess
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
