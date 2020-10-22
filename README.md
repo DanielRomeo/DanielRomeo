@@ -4,10 +4,10 @@
 
 :large_blue_circle: | BEST AT: | INTERMIDIATE AT: | CONSIDERING:
 :------------ | :-------------| :-------------| :-------------
-Programming lang | :heavy_check_mark: Typescript, Javascript, C++ | :white_check_mark: Python, Golang
+Programming lang | :heavy_check_mark: Typescript, Javascript, C++ | :white_check_mark: Python, Php | C, Golang
 Front-end frameworks| :heavy_check_mark: ReactJS |  |
 Css libraries | :heavy_check_mark:  SASS | |
-Back-end languages| :heavy_check_mark: NodeJS | :white_check_mark: Golang |
+Back-end languages| :heavy_check_mark: NodeJS | | Golang
 Back-end libraries |:heavy_check_mark: ExpressJS| | AdonisJS
 Databases | :heavy_check_mark: MySQL |  :white_check_mark: MongoDB | PostgreSQL
 DevOps | :heavy_check_mark: Docker | :white_check_mark: Kubernetes
