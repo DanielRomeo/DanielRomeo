@@ -15,10 +15,10 @@ Hobbies | :heavy_check_mark: Machine learning | :white_check_mark: Chess
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 14 mins   ███████████▓░░░░░░░░░░░░░   46.63 % 
-C++          1 hr 40 mins    ████████▓░░░░░░░░░░░░░░░░   34.70 % 
-Markdown     17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
-SCSS         17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-JSON         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+TypeScript   2 hrs 31 mins   ████████▓░░░░░░░░░░░░░░░░   34.39 % 
+C++          1 hr 40 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.71 % 
+JavaScript   1 hr 23 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Markdown     1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+JSON         17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 ```
 <!--END_SECTION:waka-->
