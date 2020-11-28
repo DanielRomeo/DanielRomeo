@@ -14,10 +14,10 @@ Testing | :heavy_check_mark: Mocha |
 ### Past week's activity:
 <!--START_SECTION:waka-->
 ```text
-C++          2 hrs 37 mins   ████████▒░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript   2 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.14 % 
-Markdown     1 hr 56 mins    ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-C            23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Python       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Markdown     1 hr 56 mins    ████████████░░░░░░░░░░░░░   47.83 % 
+TypeScript   42 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.28 % 
+C            23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Python       21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Cython       17 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
 ```
 <!--END_SECTION:waka-->
