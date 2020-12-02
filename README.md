@@ -1,15 +1,9 @@
 
-:large_blue_circle: | BEST AT: | INTERMIDIATE AT: | CONSIDERING:
-:------------ | :-------------| :-------------| :-------------
-Programming lang | :heavy_check_mark: Typescript, Javascript, C++ | :white_check_mark: Python, Php | C, Golang
-Front-end frameworks| :heavy_check_mark: ReactJS |  |
-Css libraries | :heavy_check_mark:  SASS | |
-Back-end languages| :heavy_check_mark: NodeJS | | Golang
-Back-end libraries |:heavy_check_mark: ExpressJS| | AdonisJS
-Databases | :heavy_check_mark: MySQL |  :white_check_mark: MongoDB | PostgreSQL
-DevOps | :heavy_check_mark: Docker | :white_check_mark: Kubernetes
-Hobbies | :heavy_check_mark: Machine learning | 
-Testing | :heavy_check_mark: Mocha |
+:large_blue_circle: 
+Web developer and aspiring machine learning expert.
+Web dev stuff: Typescript, React, Node, Sass, Express(sometimes no framework).
+Low level stuff: C, C++
+I also write a lot of Cython
 
 ### Past week's activity:
 <!--START_SECTION:waka-->
