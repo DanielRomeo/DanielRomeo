@@ -1,14 +1,7 @@
 
-:large_blue_circle: I am a
-Web developer and aspiring machine learning expert.
-#### Web dev stuff: 
-Typescript, React, Node, Sass, Express(sometimes no framework).
-#### Low level stuff: 
-C, C++
-#### and
-I also write a lot of Cython
+:large_blue_circle: Working on a programming language
 
-### Past week's activity:
+#### Past week's activity:
 <!--START_SECTION:waka-->
 ```text
 TypeScript   3 hrs 25 mins   █████████████████░░░░░░░░   67.43 % 
