@@ -4,10 +4,10 @@
 #### Past week's activity:
 <!--START_SECTION:waka-->
 ```text
-JavaScript   9 hrs 14 mins   █████████████░░░░░░░░░░░░   52.08 % 
-TypeScript   5 hrs 4 mins    ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-HTML         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Markdown     40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-JSON         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+JavaScript   16 hrs 44 mins  █████████████████░░░░░░░░   67.45 % 
+TypeScript   5 hrs 40 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 % 
+JSON         46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Markdown     41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+HTML         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 <!--END_SECTION:waka-->
