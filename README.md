@@ -1,5 +1,5 @@
 
-:large_blue_circle: Working on a programming language & a math library
+:large_blue_circle: :large_blue_circle: Working on a programming language & a math library
 
 #### Past week's activity:
 <!--START_SECTION:waka-->
