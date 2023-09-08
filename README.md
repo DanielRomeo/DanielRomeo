@@ -5,7 +5,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML         18 mins         ████████░░░░░░░░░░░░░░░░░   31.62 %
+Docker       16 mins         ███████▒░░░░░░░░░░░░░░░░░   28.81 %
+Ezhil        14 mins         ██████░░░░░░░░░░░░░░░░░░░   24.29 %
+Text         6 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+C++          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
