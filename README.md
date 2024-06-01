@@ -1,6 +1,5 @@
-<p>C/C++</p>
-<p> Typescript</p>
-<p>Learning Assembly</p>
+<h3 style="color: orange">C++ Dev & Full stack dev</h3>
+<p>C++, Typescript, Python, React, Django</p>
 
 <!--START_SECTION:waka-->
 
