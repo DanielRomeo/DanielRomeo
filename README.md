@@ -1,5 +1,5 @@
-<h3 style="color: orange">C++ Dev & Full stack dev</h3>
-<p>C++, Typescript, Python, React, Django</p>
+<h3>I mostly write C++, but I'm also a web developer.</h3>
+<p>C++, QT, Typescript, Python, React, Django</p>
 
 <!--START_SECTION:waka-->
 
