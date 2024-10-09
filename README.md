@@ -4,8 +4,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 13 mins    ████████████████████████▒   96.79 %
-Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+TypeScript   1 hr 17 mins    ████████████████░░░░░░░░░   63.42 %
+C++          41 mins         ████████▓░░░░░░░░░░░░░░░░   34.54 %
+Markdown     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
