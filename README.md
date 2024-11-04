@@ -1,4 +1,5 @@
-<h3>I mostly write C++, but I'm also a web developer.</h3>
+<h3>C++ dev, Full stack software dev but DevOps Specialist.</h3>
+<h4>Writing a dissertation on compiler design <h4>
 <p>C++, QT, Typescript, Python, React, Django</p>
 
 <!--START_SECTION:waka-->
