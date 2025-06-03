@@ -5,7 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++          29 mins         ████████████████████████▓   98.73 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
