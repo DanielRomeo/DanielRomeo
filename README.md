@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         19 mins         █████████████████████████   99.39 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
