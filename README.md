@@ -5,8 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          17 mins               ██████████████░░░░░░░░░░░   56.04 %
-TypeScript   13 mins               ███████████░░░░░░░░░░░░░░   43.96 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
