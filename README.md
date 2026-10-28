@@ -1,6 +1,6 @@
 <h3>C++ dev, Full stack dev & DevOps Specialist.</h3>
 <p>Writing a dissertation on compiler design. <p>
-<p>C++, QT, Typescript, Python, React, NestJs, Django.</p>
+<p>C++, QT, Typescript, Python, React, NestJs, C#</p>
 
 <!--START_SECTION:waka-->
 
